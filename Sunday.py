@@ -1,0 +1,2 @@
+name: Sunday
+print("name")
